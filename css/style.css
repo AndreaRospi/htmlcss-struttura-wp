@@ -21,15 +21,16 @@ body {
     background-color: #e1d67a
 }
 
+/* /header */
+
+/* main */
 
 main{
     margin-bottom: 8px;
     background-color: #0085ff
 }
 
-.debug-main{
-    height: 350px;
-}
+
 
 .main-top{
     /* *****debug***** */
@@ -64,6 +65,19 @@ main{
     float: left;
 }
 
+/* /header */
+
+/* footer */
+
+footer {
+    height: 60px;
+    background-color: #8801fe
+}
+
+/* /footer */
+
+/* ****** debug ****** */
+
 .section-box, .debug{
     height: 290px;
 }
@@ -74,12 +88,12 @@ main{
     background-color: #abcfe7;
 }
 
-
-
-
-/* footer */
-
-footer {
-    height: 60px;
-    background-color: #8801fe
+.debug-main{
+    height: 350px;
 }
+
+/* ****** /debug ****** */
+
+
+
+
