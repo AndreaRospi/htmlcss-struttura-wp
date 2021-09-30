@@ -20,3 +20,21 @@ body {
     margin-bottom: 20px;
     background-color: #e1d67a
 }
+
+
+main{
+    height: 350px;
+    margin-bottom: 8px;
+    background-color: #0085ff
+}
+
+
+
+
+
+/* footer */
+
+footer {
+    height: 60px;
+    background-color: #8801fe
+}
