@@ -8,3 +8,15 @@ body {
     padding: 10px 120px;
 }
 
+/* header */
+.header-top {
+    height: 70px;
+    margin-bottom: 20px;
+    background-color: #e579e6
+}
+
+.header-bottom {
+    height: 350px;
+    margin-bottom: 20px;
+    background-color: #e1d67a
+}
