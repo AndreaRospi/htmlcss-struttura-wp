@@ -23,11 +23,49 @@ body {
 
 
 main{
-    height: 350px;
     margin-bottom: 8px;
     background-color: #0085ff
 }
 
+.debug-main{
+    height: 350px;
+}
+
+.main-top{
+    /* *****debug***** */
+    height: 50px;
+    /* *****debug***** */
+    background-color: #abcfe7
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+.boxl{
+    width: 20%;
+}
+
+.boxc{
+    width: 60%;
+}
+
+.boxr{
+    width: 20%;
+}
+
+.left{
+    float: left;
+}
+
+
+.debug .boxl, .debug .boxc, .debug .boxr{
+    height: 300px;
+    background-color: #abcfe7;
+}
 
 
 
